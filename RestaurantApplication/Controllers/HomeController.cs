@@ -9,6 +9,7 @@ namespace RestaurantApplication.Controllers
 {
     public class HomeController : Controller
     {
+        //shafaq
         public ActionResult Index()
         {
             CustomerRepository objCustomerRepository = new CustomerRepository();
